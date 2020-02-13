@@ -1,0 +1,190 @@
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\Content\fonts\MessageFont.xnb
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\AStarMonoGame3.4.exe
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\AStarMonoGame3.4.pdb
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\MonoGame.Framework.dll
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.dll
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XInput.dll
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\MonoGame.Framework.xml
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.xml
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XInput.xml
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame3.4.exe
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame3.4.pdb
+C:\SOFT152\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\Content\images\cursor.xnb
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame3.4.exe
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame3.4.pdb
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\Content\fonts\MessageFont.xnb
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\Content\images\cursor.xnb
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\AStarMonoGame3.4.exe
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\AStarMonoGame3.4.pdb
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.dll
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.xml
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Drive D\AINT255\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame3.4.exe
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame3.4.pdb
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\Content\fonts\MessageFont.xnb
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\Content\images\cursor.xnb
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\AStarMonoGame3.4.exe
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\AStarMonoGame3.4.pdb
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Drive E\Courses\yr2015\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame3.4.exe
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame3.4.pdb
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\Content\fonts\MessageFont.xnb
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\Content\images\cursor.xnb
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\AStarMonoGame3.4.exe
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\AStarMonoGame3.4.pdb
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.dll
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.xml
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2016\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\AStarMonoGame3.4.exe.config
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\AStarMonoGame3.4.exe.config
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\AStarMonoGame3.4.exe
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\AStarMonoGame3.4.pdb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame3.4.exe
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\obj\x86\Debug\AStarMonoGame3.4.pdb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\Content\fonts\MessageFont.xnb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.4\AStarMonoGame3.4\bin\Windows\Debug\Content\images\cursor.xnb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\Content\fonts\MessageFont.xnb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\Content\images\cursor.xnb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\AStarMonoGame3.4.exe.config
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\AStarMonoGame3.4.exe
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\AStarMonoGame3.4.pdb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\obj\x86\Debug\AStarMonoGame.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\obj\x86\Debug\AStarMonoGame3.4.exe
+C:\Drive E\Courses\yr2017\AINT255\lectures\week02 Heuristic Search\AStarMonoGame3.6\AStar\obj\x86\Debug\AStarMonoGame3.4.pdb
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\Content\images\cursor.xnb
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\Content\fonts\MessageFont.xnb
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\AStarMonoGame3.4.exe.config
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\AStarMonoGame3.4.exe
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\AStarMonoGame3.4.pdb
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.dll
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.xml
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\obj\x86\Debug\AStarMonoGame.csprojAssemblyReference.cache
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\obj\x86\Debug\AStarMonoGame.csproj.CoreCompileInputs.cache
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\obj\x86\Debug\AStarMonoGame.csproj.CopyComplete
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\obj\x86\Debug\AStarMonoGame3.4.exe
+C:\Users\wmasters\Desktop\AStarMonoGame3.6\AStarMonoGame3.6\AStar\obj\x86\Debug\AStarMonoGame3.4.pdb
